@@ -35,10 +35,10 @@ The environment sports a cloverleaf design with four interconnected showcase pla
 Props such as signage, screens, and tablets are included. A common area in the middle with furniture is included.
 
 The four showroom platforms are:
-- Alpha (red)
-- Beta (blue)
-- Charlie (green)
-- Delta (yellow)
+- **Alpha** (red)
+- **Beta** (blue)
+- **Charlie** (green)
+- **Delta** (yellow)
 
 You can customize the showrooms with your own colors. Using the main albedo of the featured model for the background color makes for a neat ambient effect in each showroom.
 
@@ -72,10 +72,10 @@ Thanks to Sonny G. for assistance with level design and Eric Van de Kerckhove fo
 
 Contributions are gladly accepted in the form of the following cryptocurrencies. If you'd like alternate ways to donate, please contact me. Please also feel free to let me know where you would like me to spend my efforts on these projects when you donate.
 
-- BTC 18N1g2o1b9u2jNPbSpGHhV6x5xs6Qou3EV
-- BCH qzhlcydexksxjlnngjsehlmexpsfhw6rjyw0xej2fu
-- ETH 0xBF5DddA763e6720a55840383ea6dF9cF6b1e3a83
-- LTC LTTCuc9xFixgSkkJVMfpAyryc28D5DhCGc
+- **BTC** 18N1g2o1b9u2jNPbSpGHhV6x5xs6Qou3EV
+- **BCH** qzhlcydexksxjlnngjsehlmexpsfhw6rjyw0xej2fu
+- **ETH** 0xBF5DddA763e6720a55840383ea6dF9cF6b1e3a83
+- **LTC** LTTCuc9xFixgSkkJVMfpAyryc28D5DhCGc
 
 ## License
 Copyright (c) 2017-2018 Eric J Nesser MIT
