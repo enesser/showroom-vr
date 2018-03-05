@@ -3,6 +3,8 @@ Showroom-VR
 
 A room-scale virtual reality environment for the HTC Vive that can allow players to see and interact with a wide variety of 3D models on four interconnected showroom platforms.
 
+![Showroom Screenshot](https://user-images.githubusercontent.com/5659221/36966173-81ac3468-2021-11e8-94fb-e4da4bb52ecf.png)
+
 The level can be lightly modified to work well in mobile and web environments.
 
 This environment has been used successfully to showcase agency work and for ideation with the following models:
@@ -23,6 +25,10 @@ Note that these models are not included in the project. Use this environment to 
 Hold the trackpad down on either the right or left Vive controller, point at the floor to highlight where you would like to move, then release the trackpad to teleport.
 
 ## Environment
+
+![Showroom VR View](https://user-images.githubusercontent.com/5659221/36966176-843666ea-2021-11e8-899a-8da125bb6387.png)
+
+![Showroom Level View](https://user-images.githubusercontent.com/5659221/36966177-859fc684-2021-11e8-965c-66e8b1bdd1ff.png)
 
 The environment sports a cloverleaf design with four interconnected showcase platforms.
 
@@ -66,10 +72,10 @@ Thanks to Sonny G. for assistance with level design and Eric Van de Kerckhove fo
 
 Contributions are gladly accepted in the form of the following cryptocurrencies. If you'd like alternate ways to donate, please contact me. Please also feel free to let me know where you would like me to spend my efforts on these projects when you donate.
 
-BTC 18N1g2o1b9u2jNPbSpGHhV6x5xs6Qou3EV
-BCH qzhlcydexksxjlnngjsehlmexpsfhw6rjyw0xej2fu
-ETH 0xBF5DddA763e6720a55840383ea6dF9cF6b1e3a83
-LTC LTTCuc9xFixgSkkJVMfpAyryc28D5DhCGc
+- BTC 18N1g2o1b9u2jNPbSpGHhV6x5xs6Qou3EV
+- BCH qzhlcydexksxjlnngjsehlmexpsfhw6rjyw0xej2fu
+- ETH 0xBF5DddA763e6720a55840383ea6dF9cF6b1e3a83
+- LTC LTTCuc9xFixgSkkJVMfpAyryc28D5DhCGc
 
 ## License
 Copyright (c) 2017-2018 Eric J Nesser MIT
