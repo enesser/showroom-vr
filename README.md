@@ -13,7 +13,7 @@ This environment has been used successfully to showcase agency work and for idea
 - Intel Drone
 - Tesla Model 3
 
-Note that these models are not included in the project. Use this environment to showcase your own models.
+Note that these models are **not** included in the project. Use this environment to showcase your own models.
 
 ## Requirements
 
